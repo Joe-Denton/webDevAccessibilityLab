@@ -12,8 +12,25 @@ footer {
   padding: 0 15px;
 }
 #logo {
-  text-align: center;
+  padding: 10px;
+  color: #fff;
+  text-decoration: none;
 }
+#logo a:link{
+  padding: 10px;
+  color: #fff;
+  text-decoration: none;
+}
+#logo a:hover{
+  padding: 10px;
+  color: #fff;
+}
+#logo a:visited{
+  padding: 10px;
+  color: #fff;
+  text-decoration: none;
+}
+
 header {
   background-color: #263248;
 }
