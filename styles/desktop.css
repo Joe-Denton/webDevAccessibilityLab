@@ -29,7 +29,6 @@ header h1 a:hover {
 #logo a:hover{
   padding: 10px;
   color: #fff;
-  text-decoration: none;
 }
 #logo a:visited{
   padding: 10px;
